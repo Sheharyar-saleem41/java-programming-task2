@@ -19,7 +19,7 @@ The game allows the user to guess a randomly generated number. After each guess,
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+https://github.com/Sheharyar-saleem41/java-programming-task2/blob/main/README.md
 ```
 
 ### 2. Open the project
